@@ -4,5 +4,5 @@
 1. Skills: Unity/C# low skill, Python, C++ low skill, JavaScript/HTML/CSS low scill  
 1. git push -- force
 1. Yes
-1. Yes
+1. Yesn't
 1. London is a capital of great britain
