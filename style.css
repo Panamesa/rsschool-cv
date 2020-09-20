@@ -1,0 +1,23 @@
+.center2 {
+    text-align: center;
+}
+
+.center {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+html {
+    font-size: 14px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.page-header {
+    display: flex;
+    flex-direction: column-reverse;
+}
